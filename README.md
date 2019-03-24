@@ -1,4 +1,4 @@
-# r-matthew
+# r/Matthew
 Subreddit Styling and Assets for https://new.reddit.com/r/Matthew
 
 ## Green Post
