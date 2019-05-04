@@ -10,16 +10,15 @@
     content: " Matthews Online";
 }
 
-header-img.default-header{
-    display: none;
+#header-img.default-header {
 }
 
-a[href$="/s"] {
+a[href$="reddit.com/r/matthew"] {
     background: #000!important;
-    color: #000!important
+    color: #000!important;
 }
 
-a[href$="/s"]:hover {
+a[href$="reddit.com/r/matthew"]:hover {
     color: #FFF!important
 }
 
@@ -629,7 +628,7 @@ button:active,.pretty-button:active {
 }
 
 body:not(.profile-page) .titlebox .age::before {
-    content: "— "
+    content: "â€” "
 }
 
 .morelink .nub {
@@ -1652,15 +1651,14 @@ body .menuarea.modtools a.pretty-button {
 
 #header .pagename a {
     display: block;
-    height: 120px;
-    left: 50%;
+    height: 200px;
     margin-left: -150px;
     position: absolute;
     text-indent: -9999px;
-    top: 29px;
-    width: 166px;
+    width: 9000px;
     margin-bottom: 20px;
-    margin-top: 7px
+    margin-top: 7px;
+    top: 17px;
 }
 
 #header-img {
